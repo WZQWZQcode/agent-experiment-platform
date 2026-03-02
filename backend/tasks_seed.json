@@ -39,28 +39,28 @@
       "type": "text_generation",
       "templates": [
         {
-          "prompt": "请用100-200字描述什么是"技术债务"(Technical Debt)，并举一个实际例子。",
+          "prompt": "请用100-200字描述什么是'技术债务'(Technical Debt)，并举一个实际例子。",
           "keywords": ["代码质量", "维护成本", "快速开发", "重构", "长期影响"],
           "min_length": 100,
           "max_length": 200,
           "difficulty": "medium"
         },
         {
-          "prompt": "请用100-200字解释"持续集成"(CI)的核心价值，并说明它如何提升团队效率。",
+          "prompt": "请用100-200字解释'持续集成'(CI)的核心价值，并说明它如何提升团队效率。",
           "keywords": ["自动化", "测试", "集成", "反馈", "质量"],
           "min_length": 100,
           "max_length": 200,
           "difficulty": "medium"
         },
         {
-          "prompt": "请用100-200字描述"用户故事"(User Story)在敏捷开发中的作用，并给出一个标准格式的例子。",
+          "prompt": "请用100-200字描述'用户故事'(User Story)在敏捷开发中的作用，并给出一个标准格式的例子。",
           "keywords": ["需求", "用户", "价值", "场景", "验收标准"],
           "min_length": 100,
           "max_length": 200,
           "difficulty": "easy"
         },
         {
-          "prompt": "请用100-200字说明什么是"API限流"(Rate Limiting)，以及为什么需要它。",
+          "prompt": "请用100-200字说明什么是'API限流'(Rate Limiting)，以及为什么需要它。",
           "keywords": ["保护", "资源", "滥用", "配额", "稳定性"],
           "min_length": 100,
           "max_length": 200,
